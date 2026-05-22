@@ -314,3 +314,6 @@ ls -la /mnt/smb-test
 # Verificar negociación SMB3
 smbclient //192.168.100.50/secure-share -U poce -m SMB3
 ```
+## Authors
+
+- [@Pocee](https://www.github.com/Pocee)
